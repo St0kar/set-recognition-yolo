@@ -1,0 +1,5 @@
+names:
+- card
+nc: 1
+train: AugCards\images\train
+val: AugCards\images\val
